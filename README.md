@@ -15,8 +15,8 @@ disesuaikan untuk berbagai keperluan.
 
 ## Struktur File
 
--- Folder: 
------
-
+- *Folder* halaman_depan
+-- *File* Cover
+-- *File* Abstrak
 
 
