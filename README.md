@@ -88,7 +88,7 @@ akan dimuat di bagian depan laporan TA, tepatnya sebelum BAB Pendahuluan.
 Abstrak TA ditulis pada *file* `abstrak.tex` (Bahasa Indonesia) dan `abstract.tex`
 (Bahasa Inggris).
 
-**[`konten`](./konten)** berisi *file* '*.tex' yang menjadi isi dari laporan TA.
+**[`konten`](./konten)** berisi *file* `*.tex` yang menjadi isi dari laporan TA.
 
 **[`halaman-belakang`](./halaman-belakang)** berisi *file* `biografi.tex` untuk
 memuat biografi singkat penulis dan **[`lampiran`](./lampiran)** untuk memuat
