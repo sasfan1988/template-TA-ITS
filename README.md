@@ -20,77 +20,45 @@ akan dapat dihasilkan dengan mengkompilasi `main.tex` menggunakan LuaLaTeX
 sebagai *compiler*.
 
 ## Struktur File
-.
-|── halaman-depan
-|   |── `cover`
-|   |── `pengesahan`
-|   |── `abstrak`
-|   |── 'abstract`
-|   |── `kataPengantar`
-|   |── `daftarIsi`
-|   |── `daftarGambar`
-|   |── `daftarTabel`
-|
-|── konten
-|   |── `bab01`
-|   |── `bab02`
-|   |── `bab03`
-|   |── 'bab04`
-|   |── `bab05`
-| 
-|── halaman-belakang
-|   |── `lampiran`
-|   |── `biografi`
-|
-|── halaman-belakang
-|   |── `lampiran`
-|   |── `biografi`|
-
-- *Folder* `halaman_depan`
-
-
-- *Folder* `konten`
-
--- *File* Bab 1 hingga 5
-
-- *Folder* `halaman-belakang`
-
--- *Folder* `lampiran`
-
--- *File* `biografi`
-
-- *Folder* gambar
-
-- *File* `format-pustaka`
-
-- *File* `informasi`
-
-- *File* `kodeUnit`
-
-- *File* `main`
-
-- *File* pengaturan
-
-- *File* `pustaka`
-
 
 ```bash
-├── app
-│   ├── css
-│   │   ├── **/*.css
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   ├── js
-│   │   ├── **/*.js
-│   └── partials/template
-├── dist (or build)
-├── node_modules
-├── bower_components (if using bower)
-├── test
-├── Gruntfile.js/gulpfile.js
-├── README.md
-├── package.json
-├── bower.json (if using bower)
-└── .gitignore
+.
+├── halaman-depan             
+│   ├── 00-BGcover.jpg
+│   ├── 00-Logo-ITS.png
+│   ├── abstract.tex
+│   ├── abstrak.tex
+│   ├── cover.tex
+│   ├── daftarGambar.tex
+│   ├── daftarIsi.tex
+│   ├── daftarTabel.tex
+│   ├── kataPengantar.tex
+│   └── pengesahan.tex
+├── konten
+│   ├── bab01.tex
+│   ├── bab02.tex
+│   ├── bab03.tex
+│   ├── bab04.tex
+│   └── bab05.tex
+├── halaman-belakang
+│   ├── biografi.tex
+│   └── lampiran
+│       └── lampiranA.tex
+├── gambar
+│   ├── contoh.png
+│   ├── flowchart.png
+│   └── foto.png
+├── pustaka.bib
+├── format-pustaka.bst
+├── informasi.tex              
+├── kodeUnit.tex
+├── pengaturan.tex
+├── `main.tex`
+└── README.md
 ```
+
+*Folder* **[`halaman-depan`](./halaman-depan)** berisi *file* `*.tex` dan gambar yang akan dimuat di bagian depan,
+sebelum bab Pendahuluan, pada dokumen TA. Abstrak dalam Bahasa Indoneisa dituliskan dalam 
+*file* `abstrak.tex`, sementara abstrak dalam Bahasa Inggris dituliskan dalam *file* `abstract.tex`
+
+*Folder* `konten` berisi *file* 
