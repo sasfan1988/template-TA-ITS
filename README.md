@@ -1,12 +1,13 @@
-# template-TA-ITS 15.03.2022
+# Template TA ITS v.1.0
 
 ## Deskripsi
 
 Template ini dibuat khusus dalam format LaTeX untuk mempermudah mahasiswa/i 
-dalam penyusunan laporan tugas akhir (TA) di lingkungan Institut Teknologi
-Sepuluh Nopember (ITS), khususnya di Departemen Fisika.
+dalam penyusunan laporan tugas akhir (TA) di lingkungan [Institut Teknologi
+Sepuluh Nopember (ITS)](https://www.its.ac.id/), 
+khususnya di [Departemen Fisika](https://www.its.ac.id/fisika/).
 
-> Template ini bukanlah template resmi dari ITS, namun dibuat sedemikian rupa
+> Template ini **bukanlah template resmi** dari ITS, namun dibuat sedemikian rupa
 sehingga sesuai dengan pedoman penyusunan laporan TA yang dibuat oleh
 Departemen Fisika, ITS.
 
