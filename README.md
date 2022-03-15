@@ -21,28 +21,30 @@ sebagai *compiler*.
 
 ## Struktur File
 .
-|-- halaman-depan
-|   |-- `cover`
-|   |-- `pengesahan`
-|   |-- `abstrak`
-|   |-- 'abstract`
-|   |-- `kataPengantar`
-|   |-- `daftarIsi`
-|   |-- `daftarGambar`
-|   |-- `daftarTabel`
+|── halaman-depan
+|   |── `cover`
+|   |── `pengesahan`
+|   |── `abstrak`
+|   |── 'abstract`
+|   |── `kataPengantar`
+|   |── `daftarIsi`
+|   |── `daftarGambar`
+|   |── `daftarTabel`
 |
-|-- konten
-|   |-- `bab01`
-|   |-- `bab02`
-|   |-- `bab03`
-|   |-- 'bab04`
-|   |-- `bab05`
+|── konten
+|   |── `bab01`
+|   |── `bab02`
+|   |── `bab03`
+|   |── 'bab04`
+|   |── `bab05`
 | 
+|── halaman-belakang
+|   |── `lampiran`
+|   |── `biografi`
 |
-|
-|
-|
-|
+|── halaman-belakang
+|   |── `lampiran`
+|   |── `biografi`|
 
 - *Folder* `halaman_depan`
 
