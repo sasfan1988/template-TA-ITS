@@ -14,13 +14,9 @@ Departemen Fisika, ITS.
 Template ini dapat digunakan dengan bebas (dan bertanggung jawab) dan dapat 
 disesuaikan untuk berbagai keperluan.
 
-Template untuk TA ini terdiri dari beberapa bagian, di mana file `main.tex`
-merupakan bagian utama yang berguna untuk menyatakan dan mengatur kerangka
-serta *input* yang digunakan dalam dokumen TA. 
-
 Template ini dapat dijalankan dengan menggunakan *compiler* LuaLaTeX untuk 
 menghasilkan *file* TA dalam format `*.pdf`. Untuk mempermudah penggunaan
-template ini, kami sangat menyarankan pengguna untuk menggunakan "Overleaf.com"
+template ini, kami sangat menyarankan *user* untuk menggunakan "Overleaf.com"
 
 ## Struktur File
 
@@ -60,8 +56,17 @@ template ini, kami sangat menyarankan pengguna untuk menggunakan "Overleaf.com"
 └── README.md
 ```
 
-*Folder* **[`halaman-depan`](./halaman-depan)** berisi *file* `*.tex` dan gambar yang akan dimuat di bagian depan,
-sebelum bab Pendahuluan, pada dokumen TA. Abstrak dalam Bahasa Indoneisa dituliskan dalam 
-*file* `abstrak.tex`, sementara abstrak dalam Bahasa Inggris dituliskan dalam *file* `abstract.tex`
+Template untuk TA ini terdiri dari beberapa bagian, di mana file `main.tex`
+merupakan bagian utama yang berguna untuk menyatakan dan mengatur kerangka
+serta *input* yang digunakan dalam laporan TA. 
+
+Dengan menggunakan template ini, *user* tidak lagi direpotkan untuk mengatur
+
+
+
+*Folder* **[`halaman-depan`](./halaman-depan)** berisi *file* `*.tex` dan 
+gambar yang akan dimuat di bagian depan laporan TA, tepatnya sebelum BAB 
+Pendahuluan. Abstrak TA ditulis pada *file* `abstrak.tex` (Bahasa Indonesia)
+dan `abstract.tex` (Bahasa Inggris).
 
 *Folder* `konten` berisi *file* 
