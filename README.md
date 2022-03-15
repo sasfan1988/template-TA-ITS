@@ -26,7 +26,7 @@ kemudian bisa dijalankan baik melalui “Overleaf.com” maupun TeX *editor*
 yang biasa digunakan.
 
 Penjelasan lebih lengkap mengenai cara penggunaan template ini dapat dilihat
-melalui video berikut ini: 
+melalui video berikut ini: [https://youtu.be/ucTR7dgIFiA](https://youtu.be/ucTR7dgIFiA)
 
 ## Struktur File
 
@@ -76,9 +76,9 @@ jenis huruf, ukuran huruf, jarak spasi, batas tepi halaman (*margin*), daftar
 isi, daftar tabel, daftar gambar, daftar pustaka, dan lainnya. 
 
 Sebagai contoh, dengan melengkapi informasi nama, nomor induk, nama dosen pembimbing,
-NIP dosen pembimbing, dan seterusnya pada **[`informasi.tex`](./informasi.tex)**,
-halaman Cover dan Lembar Pengesahan yang dihasilkan setelah proses kompilasi akan
-sudah sesuai dengan format yang ditentukan.
+NIP dosen pembimbing, dan seterusnya pada `informasi.tex`, halaman Cover dan
+Lembar Pengesahan yang dihasilkan setelah proses kompilasi akan sudah sesuai
+dengan format yang ditentukan.
 
 Dengan demikian, *user* dapat lebih fokus kepada penyusunan bagian isi dan
 substansi, BAB 1 hingga BAB 5, dari TA yang hendak dilaporkan.
@@ -95,10 +95,7 @@ memuat biografi singkat penulis dan **[`lampiran`](./lampiran)** untuk memuat
 lampiran-lampiran.
 
 Kode ringkas untuk simbol, satuan, dan singkatan yang digunakan dalam laporan TA
-dapat dideklarasian pada **[`kodeUnit.tex`](./kodeUnit.tex)**
-
-> Penjelasan lebih lanjut mengenai penggunaan template ini dapat dilihat pada
-setiap *file* `*.tex` terkait.
+dapat dideklarasian pada `kodeUnit.tex`.
 
 ## Kontributor
 
@@ -107,6 +104,7 @@ setiap *file* `*.tex` terkait.
 3. Fitrotul Millah, ITS (fitrotulmillah2000@gmail.com) 
 4. Nathasya Veronica, ITS (nathasyaveronica363@gmail.com)
 
-NB: Silahkan hubungi kami bila ada pertanyaan seputar penggunaan template ini.
+> *Catatan*:
+> Silahkan hubungi kami bila ada pertanyaan seputar penggunaan template ini.
 Kami pun sangat terbuka bila ada saran/kritik yang bisa menyempurnakan template ini.
 
