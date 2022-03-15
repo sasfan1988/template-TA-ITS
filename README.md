@@ -66,7 +66,7 @@ melalui video berikut ini: [https://youtu.be/ucTR7dgIFiA](https://youtu.be/ucTR7
 └── README.md
 ```
 
-Template untuk TA ini terdiri dari beberapa bagian, di mana file `main.tex`
+Template untuk TA ini terdiri dari beberapa bagian, di mana *file* `main.tex`
 merupakan bagian utama yang berguna untuk menyatakan dan mengatur kerangka
 serta *input* yang digunakan dalam laporan TA. 
 
@@ -95,7 +95,7 @@ memuat biografi singkat penulis dan **[`lampiran`](./lampiran)** untuk memuat
 lampiran-lampiran.
 
 Kode ringkas untuk simbol, satuan, dan singkatan yang digunakan dalam laporan TA
-dapat dideklarasian pada `kodeUnit.tex`.
+dapat dideklarasikan pada `kodeUnit.tex`.
 
 ## Kontributor
 
@@ -107,4 +107,3 @@ dapat dideklarasian pada `kodeUnit.tex`.
 > *Catatan*:
 > Silahkan hubungi kami bila ada pertanyaan seputar penggunaan template ini.
 Kami pun sangat terbuka bila ada saran/kritik yang bisa menyempurnakan template ini.
-
