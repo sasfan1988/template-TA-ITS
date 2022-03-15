@@ -14,10 +14,12 @@ Template ini dapat digunakan dengan bebas (dan bertanggung jawab) dan dapat
 disesuaikan untuk berbagai keperluan.
 
 Template untuk TA ini terdiri dari beberapa bagian, di mana file `main.tex`
-menggunakan bagian utama yang berguna untuk menyatakan dan mengatur kerangka
-serta *input* yang digunakan dalam dokumen TA. *File* TA dalam format `*.pdf`
-akan dapat dihasilkan dengan mengkompilasi `main.tex` menggunakan LuaLaTeX
-sebagai *compiler*.
+merupakan bagian utama yang berguna untuk menyatakan dan mengatur kerangka
+serta *input* yang digunakan dalam dokumen TA. 
+
+Template ini dapat dijalankan dengan menggunakan *compiler* LuaLaTeX untuk 
+menghasilkan *file* TA dalam format `*.pdf`. Untuk mempermudah penggunaan
+template ini, kami sangat menyarankan pengguna untuk menggunakan "Overleaf.com"
 
 ## Struktur File
 
