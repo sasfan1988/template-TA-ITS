@@ -20,34 +20,42 @@ akan dapat dihasilkan dengan mengkompilasi `main.tex` menggunakan LuaLaTeX
 sebagai *compiler*.
 
 ## Struktur File
+.
+|-- halaman-depan
+|   |-- `cover`
+|   |-- `pengesahan`
+|   |-- `abstrak`
+|   |-- 'abstract`
+|   |-- `kataPengantar`
+|   |-- `daftarIsi`
+|   |-- `daftarGambar`
+|   |-- `daftarTabel`
+|
+|-- konten
+|   |-- `bab01`
+|   |-- `bab02`
+|   |-- `bab03`
+|   |-- 'bab04`
+|   |-- `bab05`
+| 
+|
+|
+|
+|
+|
 
-- *Folder* halaman_depan
+- *Folder* `halaman_depan`
 
--- *File* Cover
 
--- *File* Lembar Pengesahan
-
--- *File* Abstrak
-
--- *File* Abstract
-
--- *File* Kata Pengantar
-
--- *File* Daftar Isi
-
--- *File* Daftar Gambar
-
--- *File* Daftar Tabel
-
-- *Folder* konten
+- *Folder* `konten`
 
 -- *File* Bab 1 hingga 5
 
-- *Folder* halaman-belakang
+- *Folder* `halaman-belakang`
 
--- *Folder* lampiran
+-- *Folder* `lampiran`
 
--- *File* biografi
+-- *File* `biografi`
 
 - *Folder* gambar
 
